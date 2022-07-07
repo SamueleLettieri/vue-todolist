@@ -4,6 +4,20 @@
     box-sizing: border-box;
 }
 
+.ms_box{
+    width: 600px;
+    margin: 0 auto;
+}
+
 .line_thr{
     text-decoration: line-through;
+}
+
+.ms_ho:hover{
+    color:red;
+    cursor: pointer;
+}
+
+.ms_w90{
+    width: 80%;
 }
